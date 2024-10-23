@@ -12,3 +12,4 @@ C:\Users\huuman313\Desktop\Ciber Soft\cyber_sharp\huuman313\session2\obj\Debug\n
 C:\Users\huuman313\Desktop\Ciber Soft\cyber_sharp\huuman313\session2\obj\Debug\net8.0\session2.pdb
 C:\Users\huuman313\Desktop\Ciber Soft\cyber_sharp\huuman313\session2\obj\Debug\net8.0\session2.genruntimeconfig.cache
 C:\Users\huuman313\Desktop\Ciber Soft\cyber_sharp\huuman313\session2\obj\Debug\net8.0\ref\session2.dll
+C:\Users\huuman313\Desktop\Ciber Soft\cyber_sharp\huuman313\session2\obj\Debug\net8.0\session2.sourcelink.json
